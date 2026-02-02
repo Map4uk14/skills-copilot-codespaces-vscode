@@ -7,7 +7,7 @@ function calculateNumbers(var1, var2) {
     return {
         sum: sum,
         difference: difference,
-        product: product,
+        product: product, 
         quotient: quotient
     };
 }
